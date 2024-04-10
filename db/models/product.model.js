@@ -20,7 +20,7 @@ const ProductSchema = {
     allowNull: false,
     type: DataTypes.STRING,
   },
-  descryption: {
+  description: {
     allowNull: false,
     type: DataTypes.TEXT,
   },
